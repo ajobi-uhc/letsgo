@@ -1,4 +1,4 @@
-import styles from './styles.css'
+
 
 export const Features = (props) => {
   return (
@@ -24,7 +24,7 @@ export const Features = (props) => {
         </div>
         
         <div className='row'>
-        <img src = "img/crazy.png"></img>
+        <img src = "img/crazy.png" alt = ""></img>
         
         </div>
       </div>
