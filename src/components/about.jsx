@@ -12,7 +12,7 @@ export const About = (props) => {
               <p>{props.data ? props.data.paragraph : "loading..."}</p>
               <div className="col-xs-6 col-md-12">  
                 <div className="list-style">
-                  <div className="col-lg-16 col-sm-16 col-xs-18">
+                  <div >
                   
                   <div>
                   <h4>Minting a founders StarGarden </h4>
