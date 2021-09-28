@@ -1,4 +1,4 @@
-
+import styles from './styles.css'
 
 export const Navigation = (props) => {
   return (
