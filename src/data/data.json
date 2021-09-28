@@ -106,14 +106,10 @@
   "Features": [
     {
       "icon": "img/crazy.png",
-      "title": "NFT example 1",
-      "text": "The circle on the outside represents the rarity"
-    },
-    {
-      "icon": "fa fa-bullhorn",
-      "title": "NFT example 2",
-      "text": "The symbol represents the faction"
+      "title": "",
+      "text": ""
     }
+   
     
   ]
 }
